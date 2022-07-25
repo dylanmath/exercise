@@ -1,0 +1,2 @@
+# exercise
+Whimsical SQL exercise
